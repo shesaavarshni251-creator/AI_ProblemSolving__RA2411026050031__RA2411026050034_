@@ -151,9 +151,3 @@ Start: A    Goal: F
 - **No external dependencies required**
 
 ---
-
-## Team Members
-| Name | Register Number |
-|---|---|
-| Member 1 | xxxxxxxx |
-| Member 2 | xxxxxxxx |
