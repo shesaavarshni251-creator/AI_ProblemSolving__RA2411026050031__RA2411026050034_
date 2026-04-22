@@ -1,8 +1,7 @@
 # AI Problem Solving — GitHub Assignment
 
 > **Course:** Artificial Intelligence  
-> **Team Size:** 2 members  
-> **Deadline:** 25 April 2026
+
 
 ---
 
@@ -12,12 +11,10 @@
 AI_ProblemSolving_<RegisterNumber>/
 ├── Problem1_TicTacToe/
 │   ├── tictactoe.py          ← Main game (Minimax + Alpha-Beta)
-│   └── README.md
 ├── Problem11_CityRouteFinder/
 │   ├── city_route_finder.py  ← A* GPS route finder
-│   └── README.md
-├── .gitignore
-└── README.md                 ← (this file)
+├── Readme.md
+└── .gitignore              
 ```
 
 ---
